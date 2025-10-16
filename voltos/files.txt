@@ -1,11 +1,16 @@
 a.out.h
+acct.h
+alarm.h
 alloc_tag.h
+args.h
+array_size.h
 ascii.h
 asn1.h
 assert.h
 async.h
 atomic.h
 audit.h
+audit_arch.h
 auxvec.h
 average.h
 
@@ -17,19 +22,20 @@ bitops.h
 bits.h
 blkdev.h
 blkpg.h
-bpf.h
-
 
 cache.h
 callback.h
 callback_data.h
+class.h
 compat.h
 copyright.h
 cpu.h
+cpuflags.h
 crc16.h
 crc32.h
 cycles.h
 
+debug.h
 device.h
 dirent.h
 dlist.h
@@ -46,44 +52,108 @@ fcntl.h
 fd.h
 fifo.h
 file.h
+filter.h
+font.h
 format.h
 format_ansi.h
 format_table.h
 fs.h
 
 hash.h
+hashtable.h
 heap.h
+hexadecimal.h
+hypervisor.h
 
+init.h
+interrupt.h
+io.h
+io_uring.h
 ioctl.h
+iommu.h
+iommufd.h
+ipc.h
 
 json.h
 
+keepalive.h
+key.h
+
+license.h
+limits.h
+linear_range.h
+linkage.h
 list.h
+lock.h
+longjmp.h
 lua.h
 
+malloc.h
+math.h
+math64.h
+mbuf.h
+memcpy.h
+memory.h
+memzone.h
+mm.h
+module.h
+mount.h
+mutex.h
+
+node.h
+ntop.h
+
+os.h
+
+panic.h
 param.h
+parser.h
 pcap.h
+pfkeyv2.h
+pid.h
+pmalloc.h
 poll.h
+powershell.h
+prctl.h
+prefetch.h
 python.h
 
+quota.h
+
+radix-tree.h
 random.h
 rbtree.h
+reciprocal.h
 ring.h
 rwlock.h
 
+scatterlist.h
+sched.h
+seqcount.h
+seqlock.h
+serialize.h
+service.h
+setjmp.h
 signal.h
 socket.h
+sparsevec.h
 spinlock.h
+stack.h
 stdarg.h
 stddef.h
 string.h
+stringize.h
 syslog.h
 
+tailq.h
 termios.h
 thread.h
 time.h
+time_range.h
 timer.h
+timing_wheel.h
 trace.h
+tracepoint.h
 types.h
 
 unistd.h
@@ -92,5 +162,8 @@ uuid.h
 
 vector.h
 version.h
+vfio.h
 
+wait.h
 warn.h
+watchdog.h
