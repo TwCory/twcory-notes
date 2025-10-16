@@ -1,0 +1,24 @@
+.github
+.vscode
+arch            - Architecture-Specific Source Code
+certs          - Files for Certificate Generation and Management
+crypto          - Cryptography and Encryption Module/Subsystem
+docs            - Documentation, CLI Reference, Man Pages, Developer Documentation
+drivers         - Device and Software Interface Drivers
+fs              - File System Source Code
+include          - Public Included C Headers
+ipc               - Inter-Process Communication Subsystem
+lib                - Library Source Code
+licenses          - License Information
+mm                - Memory Management Subsystem
+net              - Networking Stack and Subsystem
+package          - Third-Party Package Information and Build Files
+rust              - Rust Source Code
+scripts            - Miscellaneous-Purpose Scripts
+security            - System and Network Security Subsystem
+sys                - Core VoltOS Source Code
+tools              - Utilities/Tools for VoltOS
+usr                - Template USR Folder
+virt              - Virtualization-Related Source Code
+www              - Source Code for HTTP/S Management Interface
+yang            - YANG Modules and Translator
