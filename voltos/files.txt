@@ -23,18 +23,23 @@ bpf.h
 cache.h
 callback.h
 callback_data.h
+compat.h
 copyright.h
 cpu.h
 crc16.h
 crc32.h
+cycles.h
 
 device.h
 dirent.h
 dlist.h
 dlmalloc.h
 
+elf.h
+elog.h
 endian.h
 errno.h
+error.h
 event.h
 
 fcntl.h
@@ -53,6 +58,7 @@ ioctl.h
 
 json.h
 
+list.h
 lua.h
 
 param.h
@@ -60,17 +66,31 @@ pcap.h
 poll.h
 python.h
 
+random.h
+rbtree.h
+ring.h
+rwlock.h
+
 signal.h
 socket.h
+spinlock.h
 stdarg.h
 stddef.h
 string.h
+syslog.h
 
 termios.h
+thread.h
 time.h
 timer.h
+trace.h
 types.h
 
+unistd.h
+utsname.h
 uuid.h
 
 vector.h
+version.h
+
+warn.h
