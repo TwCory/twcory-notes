@@ -61,6 +61,7 @@ eigrp-oper
 eogre-tunnel-oper
 erspan
 ethernet
+ethernet-oam
 evpn-oper
 features
 fib-events
