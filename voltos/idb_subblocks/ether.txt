@@ -1,0 +1,8 @@
+Information:
+============
+
+- Duplex
+- Speed
+- Media Type
+- State
+- Flow Control
