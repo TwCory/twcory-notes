@@ -1,1 +1,33 @@
-** TEMPLATE **
+Routing Protocols:
+==================
+
+Babel
+BGP
+DVMRP
+EIGRP
+HSLS
+IS-IS
+ISO IGRP
+LISP
+OLSR
+OpenFabric
+OSPFv2
+OSPFv3
+PIM
+RIP
+RIPng
+
+Routing-Related Components:
+===========================
+
+Administrative Distance
+Filter
+Metric
+MPLS
+MRIB
+Multi-Path
+Redistribution
+RIB
+Segment Routing
+VRF
+VRF-Lite
