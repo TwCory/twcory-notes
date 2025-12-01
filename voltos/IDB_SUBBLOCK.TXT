@@ -1,0 +1,20 @@
+Hardware:
+=========
+
+  ETHERNET
+  MAC ADDRESS
+  MTU RANGE
+  SERIAL
+
+Software:
+=========
+
+  CDP
+  CLNS ROUTING
+  DDNS
+  DECNET ROUTING
+  IP ROUTING
+  IPX ROUTING
+  KEEPALIVE
+  LLDP
+  MPLS FEATURE
