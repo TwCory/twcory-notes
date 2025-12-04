@@ -1,0 +1,72 @@
+[atomic.h]
+
+  atomic_s8
+  atomic_s16
+  atomic_s32
+
+  atomic_u8
+  atomic_u16
+  atomic_u32
+
+[atomic64.h]
+
+  atomic_s64
+  atomic_u64
+  atomic_sllong
+  atomic_ullong
+
+[byteorder.h]
+
+  be16
+  be32
+  be64
+
+  le16
+  le32
+  le64
+
+  net16
+  net32
+  net64
+
+host16
+host32
+host64
+
+[string.h]
+
+string
+
+[types.h]
+
+bool
+octet
+byte
+hextet
+nibble
+
+raw_s8
+raw_s16
+raw_s32
+raw_s64
+
+raw_u8
+raw_u16
+raw_u32
+raw_u64
+
+s8
+s16
+s24
+s32
+s48
+s64
+s128
+
+u8
+u16
+u24
+u32
+u48
+u64
+u128
