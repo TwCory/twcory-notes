@@ -1,0 +1,9 @@
+include/voltos/stdarg.h
+=======================
+
+[macros]
+
+  __va_start
+  __va_end
+  __va_arg
+  __va_copy
