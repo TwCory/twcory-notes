@@ -1,0 +1,34 @@
+include/voltos/atomic.h
+=======================
+
+[enums]
+
+  memory_order_t
+
+[types]
+
+  atomic_bool
+  atomic_string
+
+  atomic_schar
+  atomic_uchar
+
+  atomic_sshort
+  atomic_ushort
+
+  atomic_sint
+  atomic_uint
+
+  atomic_slong
+  atomic_ulong
+
+  atomic_s8
+  atomic_s16
+  atomic_s32
+
+  atomic_u8
+  atomic_u16
+  atomic_u32
+
+  atomic_sintptr
+  atomic_uintptr
