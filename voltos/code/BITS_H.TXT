@@ -1,0 +1,14 @@
+include/voltos/bits.h
+=====================
+
+[constants]
+
+  BITS_PER_NIBBLE
+  BITS_PER_BYTE
+
+[types]
+
+  bit
+  nibble
+
+  
