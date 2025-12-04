@@ -1,0 +1,13 @@
+include/voltos/atomic64.h
+=========================
+
+[types]
+
+  atomic_sllong
+  atomic_ullong
+
+  atomic_s64
+  atomic_s128
+
+  atomic_u64
+  atomic_u128
