@@ -1,0 +1,20 @@
+include/voltos/stddef.h
+=======================
+
+[constants]
+
+  NULL
+  VOLTOS_DEBUG
+
+[enums]
+
+  <unnamed> true, false
+
+[macros]
+
+  __offset_of
+  __size_of
+
+[types]
+
+  nullptr
