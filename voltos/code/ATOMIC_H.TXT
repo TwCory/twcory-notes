@@ -1,0 +1,30 @@
+include/voltos/atomic.h
+=======================
+
+[types]
+
+  atomic_bool
+  atomic_string
+
+  atomic_schar
+  atomic_uchar
+
+  atomic_sint
+  atomic_uint
+
+  atomic_sshort
+  atomic_ushort
+
+  atomic_slong
+  atomic_ulong
+
+  atomic_sllong
+  atomic_ullong
+
+  atomic_s8
+  atomic_s16
+  atomic_s32
+
+  atomic_u8
+  atomic_u16
+  atomic_u32
