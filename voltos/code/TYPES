@@ -1,0 +1,24 @@
+Data Types:
+===========
+
+raw_s8
+raw_s16
+raw_s32
+raw_s64
+
+raw_u8
+raw_u16
+raw_u32
+raw_u64
+
+s8
+s16
+s32
+s64
+s128
+
+u8
+u16
+u32
+u64
+u128
