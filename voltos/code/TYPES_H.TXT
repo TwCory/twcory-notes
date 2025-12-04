@@ -1,0 +1,52 @@
+include/voltos/types.h
+======================
+
+[types]
+
+  bool
+
+  raw_s8
+  raw_s16
+  raw_s32
+  raw_s64
+
+  raw_u8
+  raw_u16
+  raw_u32
+  raw_u64
+
+  s8
+  s16
+  s24
+  s32
+  s48
+  s64
+  s128
+
+  u8
+  u16
+  u24
+  u32
+  u48
+  u64
+  u128
+
+  f16
+  f32
+  f64
+  f128
+
+  s_size
+  u_size
+
+  s_word
+  u_word
+
+  s_intptr
+  s_intfptr
+  u_intptr
+  u_intfptr
+
+  byte
+  octet
+  hextet
