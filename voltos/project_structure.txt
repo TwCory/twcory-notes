@@ -1,0 +1,27 @@
+<voltos>
+  <.github>
+  <.vscode>
+  <conf>
+    <cligen>
+    <clixon>
+  <docs>
+    <networking>
+  <feature>
+    <nat64>
+  <include>
+    <feature>
+    <nbapi>
+    <voltos>
+  <init>
+  <lib>
+  <licenses>
+    <deprecated>
+    <preferred>
+  <package>
+    <openconnect>
+  <rust>
+  <scripts>
+  <tools>
+  <yang>
+    <ietf>
+    <module>
