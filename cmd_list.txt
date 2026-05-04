@@ -3,6 +3,7 @@ access-list
 alias
 alps
 appfw
+appletalk
 archive
 arp
 async-bootp
@@ -28,15 +29,28 @@ class-map
 clns
 control-plane
 
+decnet
+default
+default-value
+define
 dialer
 dialer-list
+dlsw
 dot1x
+dspu
 
 eap
 enable
 end
+eou
+epm
 ethernet
+exit
 
+file
+flow
+flow-sampler-map
+format
 frame-relay
 
 global-address-family
@@ -50,7 +64,11 @@ ip
 ipc
 iphc-profile
 ipv6
+ipx
 
+kerberos
+key
+keymap
 kron
 
 l2
@@ -58,36 +76,78 @@ l2tp
 l2tp-class
 l2vpn
 l3vpn
+lat
+line
+lldp
+logging
 
+mab
+mac-address-table
 map-class
 map-list
+mka
+mop
+mpls
 
+ncia
 nat64
 netbios
+netconf
+ntp
 
 object-group
 onep
 
 parameter-map
+pfr
+pfr-map
+policy-map
+ppp
+pseudowire-class
+ptp
 
 qos
 
+rbe
 route-map
 route-tag
 router
+rsrb
 
 sap-priority-list
+scripting
+secure
+security
+service
+snmp
+snmp-server
+sntp
+spanning-tree
 
 table-map
+tech-support
+tn3270
+trill
 
+user-group
 username
 
 vlan
+vofm
+voice
+vpdn
 vrf
+vty-async
 
+waas
 webvpn
+wsma
 
 x25
+x28
+x29
+x3
+xot
 
 zone
 zone-pair
