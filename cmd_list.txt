@@ -1,30 +1,71 @@
 aaa
 access-list
+alias
+alps
+appfw
+archive
+arp
+async-bootp
+authentication
+auto
 
+backhaul-session-manager
+banner
 bba-group
+beep
+bfd
+bfd-template
+boot
+boot-end-marker
+boot-start-marker
+bridge
+bridge-domain
+bridge-group
+bulkstat
+busy-message
 
 class-map
+clns
+control-plane
 
 dialer
+dialer-list
+dot1x
 
+eap
+enable
+end
 ethernet
 
 frame-relay
 
 global-address-family
 
+help
 hostname
+http
 
+interface
 ip
+ipc
+iphc-profile
+ipv6
 
 kron
 
+l2
+l2tp
 l2tp-class
+l2vpn
+l3vpn
 
 map-class
+map-list
 
+nat64
 netbios
 
+object-group
 onep
 
 parameter-map
@@ -32,6 +73,8 @@ parameter-map
 qos
 
 route-map
+route-tag
+router
 
 sap-priority-list
 
@@ -40,6 +83,7 @@ table-map
 username
 
 vlan
+vrf
 
 webvpn
 
